@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" id="Flipper_Zero_ProtoType_PCB"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="224.25px"
+	 height="93.49px" viewBox="0 0 224.25 93.49" overflow="visible" xml:space="preserve">
+<g id="board">
+	<path id="boardoutline" fill="#FFFFFF" fill-opacity="0.5" d="M111.97,0.97c33.07,0,66.15,0.01,99.22-0.02c3.1,0,6.03,0.39,8.64,2.2
+		c2.25,1.56,3.53,3.66,3.58,6.43c0.04,2.54,0.03,5.07,0.03,7.61c0,19.54-0.19,39.09,0.1,58.62c0.11,7.57-5.12,10.51-10.84,10.76
+		c-3.88,0.17-7.77,0.13-11.65,0.03c-1.56-0.04-2.01,0.63-2.08,2c-0.21,4.01-0.23,4.01-4.24,4.01c-21.82,0-43.63,0-65.45,0
+		c-0.45,0-0.9,0.01-1.34-0.02c-1.21-0.07-1.86-0.56-1.89-1.93c-0.08-4.04-0.13-4.05-4.24-4.05c-12-0.01-24.01-0.01-36.01-0.01
+		c-1.98,0-2.37,0.37-2.4,2.32c-0.06,3.88,0.62,3.67-3.87,3.67c-16.74,0-33.47,0.01-50.21,0.01c-0.65,0-1.3,0.01-1.94-0.02
+		c-1.97-0.08-2.18-0.3-2.19-2.31c-0.02-3.92,0.5-3.62-3.73-3.67c-3.14-0.03-6.28-0.01-9.41-0.03c-3.44-0.03-6.61-0.89-9.08-3.39
+		c-1.39-1.41-2.35-3.11-2.33-5.25c0.04-6.61,0.02-13.23,0.01-19.84c0-15.76,0.12-31.53-0.09-47.29C0.49,5.63,3.75,2.4,8.02,1.42
+		c1.34-0.31,2.75-0.44,4.13-0.44C45.42,0.96,78.69,0.96,111.97,0.97C111.97,0.96,111.97,0.97,111.97,0.97z"/>
+</g>
+<g id="silkscreen0">
+	
+		<circle id="Hole_Bottom_Right_00000026872524669376598650000003396315656047826350_" stroke="#000000" fill-opacity="0.5" stroke-miterlimit="10" cx="213.09" cy="75.23" r="4.54"/>
+	
+		<circle id="Hole_Bottom_Left_00000029022236097090400710000006495594710518558126_" stroke="#000000" fill-opacity="0.5" stroke-miterlimit="10" cx="11.02" cy="75.58" r="4.54"/>
+	
+		<circle id="Hole_Top_Right_00000124160347353513866080000009839196522940643256_" stroke="#000000" fill-opacity="0.5" stroke-miterlimit="10" cx="213.09" cy="11.07" r="4.54"/>
+	
+		<circle id="Hole_Top_Left_00000067211723268325008790000014854764559386187924_" stroke="#000000" fill-opacity="0.5" stroke-miterlimit="10" cx="11.02" cy="11.41" r="4.54"/>
+	
+		<path id="silkscreen0_path_00000145055033780092182590000007995152634648267454_" fill="none" stroke="#000000" stroke-miterlimit="10" d="
+		M111.97,0.97c33.07,0,66.15,0.01,99.22-0.02c3.1,0,6.03,0.39,8.64,2.2c2.25,1.56,3.53,3.66,3.58,6.43
+		c0.04,2.54,0.03,5.07,0.03,7.61c0,19.54-0.19,39.09,0.1,58.62c0.11,7.57-5.12,10.51-10.84,10.76c-3.88,0.17-7.77,0.13-11.65,0.03
+		c-1.56-0.04-2.01,0.63-2.08,2c-0.21,4.01-0.23,4.01-4.24,4.01c-21.82,0-43.63,0-65.45,0c-0.45,0-0.9,0.01-1.34-0.02
+		c-1.21-0.07-1.86-0.56-1.89-1.93c-0.08-4.04-0.13-4.05-4.24-4.05c-12-0.01-24.01-0.01-36.01-0.01c-1.98,0-2.37,0.37-2.4,2.32
+		c-0.06,3.88,0.62,3.67-3.87,3.67c-16.74,0-33.47,0.01-50.21,0.01c-0.65,0-1.3,0.01-1.94-0.02c-1.97-0.08-2.18-0.3-2.19-2.31
+		c-0.02-3.92,0.5-3.62-3.73-3.67c-3.14-0.03-6.28-0.01-9.41-0.03c-3.44-0.03-6.61-0.89-9.08-3.39c-1.39-1.41-2.35-3.11-2.33-5.25
+		c0.04-6.61,0.02-13.23,0.01-19.84c0-15.76,0.12-31.53-0.09-47.29C0.49,5.63,3.75,2.4,8.02,1.42c1.34-0.31,2.75-0.44,4.13-0.44
+		C45.42,0.96,78.69,0.96,111.97,0.97C111.97,0.96,111.97,0.97,111.97,0.97z"/>
+	
+		<circle id="PIN1_00000111886716617391768110000004316582349531432610_" display="none" stroke="#000000" stroke-miterlimit="10" cx="29.12" cy="82.72" r="1.42"/>
+	
+		<circle id="PIN2_00000048500404148179008610000009028439957021286031_" display="none" stroke="#000000" stroke-miterlimit="10" cx="36.32" cy="82.72" r="1.42"/>
+	
+		<circle id="PIN3_00000101084865388304255550000006431154227498592433_" display="none" stroke="#000000" stroke-miterlimit="10" cx="43.52" cy="82.72" r="1.42"/>
+	
+		<circle id="PIN4_00000070083374770743860450000017648441332566759834_" display="none" stroke="#000000" stroke-miterlimit="10" cx="50.72" cy="82.72" r="1.42"/>
+	
+		<circle id="PIN5_00000158732002353306234260000006964744199129475472_" display="none" stroke="#000000" stroke-miterlimit="10" cx="57.92" cy="82.72" r="1.42"/>
+	
+		<circle id="PIN6_00000127748736569453427630000010274426973501537982_" display="none" stroke="#000000" stroke-miterlimit="10" cx="65.12" cy="82.72" r="1.42"/>
+	
+		<circle id="PIN7_00000098216659965783297130000006934502053951630218_" display="none" stroke="#000000" stroke-miterlimit="10" cx="72.32" cy="82.72" r="1.42"/>
+	
+		<circle id="PIN8_00000116920888071121528680000017945647356618489480_" display="none" stroke="#000000" stroke-miterlimit="10" cx="79.52" cy="82.72" r="1.42"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="25.21" y1="28.13" x2="25.21" y2="87.02"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="25.21" y1="87.02" x2="82.89" y2="87.02"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="24.72" y1="28.13" x2="32.56" y2="28.13"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="32.56" y1="28.13" x2="32.56" y2="87.02"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="75.54" y1="28.13" x2="75.82" y2="87.02"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="82.89" y1="28.13" x2="82.89" y2="87.02"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="75.54" y1="28.13" x2="82.89" y2="28.13"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="82.89" y1="56.93" x2="25.21" y2="56.93"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="32.56" y1="50.27" x2="75.65" y2="50.27"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="25.21" y1="79.67" x2="82.89" y2="79.67"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="25.21" y1="72.41" x2="82.89" y2="72.41"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="39.54" y1="87.02" x2="39.54" y2="50.27"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="46.8" y1="50.27" x2="46.8" y2="87.02"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="54.05" y1="87.02" x2="54.05" y2="50.27"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="61.31" y1="50.27" x2="61.31" y2="87.02"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="68.47" y1="87.02" x2="68.47" y2="50.27"/>
+	<text transform="matrix(1 0 0 1 27.7037 91.2891)" font-family="'OCRA'" font-size="4px">1</text>
+	<text transform="matrix(1 0 0 1 34.9037 91.2905)" font-family="'OCRA'" font-size="4px">2</text>
+	<text transform="matrix(1 0 0 1 42.104 91.289)" font-family="'OCRA'" font-size="4px">3</text>
+	<text transform="matrix(1 0 0 1 49.3038 91.2887)" font-family="'OCRA'" font-size="4px">4</text>
+	<text transform="matrix(1 0 0 1 56.5041 91.2884)" font-family="'OCRA'" font-size="4px">5</text>
+	<text transform="matrix(1 0 0 1 63.7039 91.2883)" font-family="'OCRA'" font-size="4px">6</text>
+	<text transform="matrix(1 0 0 1 70.9037 91.288)" font-family="'OCRA'" font-size="4px">7</text>
+	<text transform="matrix(1 0 0 1 78.104 91.2877)" font-family="'OCRA'" font-size="4px">8</text>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="126.14" y1="28.13" x2="126.14" y2="87.02"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="198.28" y1="87.02" x2="126.14" y2="87.02"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="198.28" y1="28.13" x2="198.28" y2="87.02"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="133.12" y1="28.13" x2="126.14" y2="28.13"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="133.12" y1="87.02" x2="133.12" y2="28.13"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="140.52" y1="87.02" x2="140.52" y2="28.13"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="147.91" y1="87.02" x2="147.91" y2="28.13"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="154.89" y1="87.02" x2="154.89" y2="50.27"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="162.21" y1="87.02" x2="162.21" y2="50.27"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="169.4" y1="87.02" x2="169.4" y2="50.27"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="176.8" y1="87.02" x2="176.8" y2="50.27"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="183.91" y1="87.02" x2="183.91" y2="50.27"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="191.17" y1="87.02" x2="191.17" y2="28.13"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="198.28" y1="28.13" x2="191.17" y2="28.13"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="147.91" y1="28.13" x2="140.52" y2="28.13"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="133.12" y1="28.13" x2="126.14" y2="28.13"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="143.73" y1="28.13" x2="144.21" y2="28.13"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="133.12" y1="50.27" x2="191.17" y2="50.27"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="126.14" y1="56.93" x2="198.28" y2="56.93"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="198.28" y1="72.41" x2="126.14" y2="72.41"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="126.14" y1="79.67" x2="198.28" y2="79.67"/>
+	<text transform="matrix(1 0 0 1 128.6802 91.2905)" font-family="'OCRA'" font-size="4px">9</text>
+	
+		<circle id="PIN9_00000174586389838500790830000010795175890742855053_" display="none" stroke="#000000" stroke-miterlimit="10" cx="130.1" cy="82.72" r="1.42"/>
+	
+		<circle id="PIN10_00000146493128775422920260000016245853799860285362_" display="none" stroke="#000000" stroke-miterlimit="10" cx="137.3" cy="82.72" r="1.42"/>
+	
+		<circle id="PIN11_00000179615984143335083240000005887826198745511062_" display="none" stroke="#000000" stroke-miterlimit="10" cx="144.5" cy="82.72" r="1.42"/>
+	
+		<circle id="PIN12_00000055679382396053554180000009445268108874459307_" display="none" stroke="#000000" stroke-miterlimit="10" cx="151.7" cy="82.72" r="1.42"/>
+	
+		<circle id="PIN13_00000106842110163627706670000014233428983500919480_" display="none" stroke="#000000" stroke-miterlimit="10" cx="158.9" cy="82.72" r="1.42"/>
+	
+		<circle id="PIN14_00000129909381183872597640000005641826182811899795_" display="none" stroke="#000000" stroke-miterlimit="10" cx="166.1" cy="82.72" r="1.42"/>
+	
+		<circle id="PIN15_00000085938205152392166050000003651065574268573099_" display="none" stroke="#000000" stroke-miterlimit="10" cx="173.3" cy="82.72" r="1.42"/>
+	
+		<circle id="PIN16_00000047752331493567535460000015962671709176440241_" display="none" stroke="#000000" stroke-miterlimit="10" cx="180.5" cy="82.72" r="1.42"/>
+	
+		<circle id="PIN17_00000176760369916666955560000017852604557678080407_" display="none" stroke="#000000" stroke-miterlimit="10" cx="187.7" cy="82.72" r="1.42"/>
+	
+		<circle id="PIN18_00000044899584704029950400000013049011709501827226_" display="none" stroke="#000000" stroke-miterlimit="10" cx="194.9" cy="82.72" r="1.42"/>
+	<text transform="matrix(1 0 0 1 133.958 91.2902)" font-family="'OCRA'" font-size="4px">10</text>
+	<text transform="matrix(1 0 0 1 141.7204 91.2902)" font-family="'OCRA'" font-size="4px">11</text>
+	<text transform="matrix(1 0 0 1 148.5394 91.2902)" font-family="'OCRA'" font-size="4px">12</text>
+	<text transform="matrix(1 0 0 1 155.7253 91.2905)" font-family="'OCRA'" font-size="4px">13</text>
+	<text transform="matrix(1 0 0 1 163.0509 91.2898)" font-family="'OCRA'" font-size="4px">14</text>
+	<text transform="matrix(1 0 0 1 170.2372 91.2906)" font-family="'OCRA'" font-size="4px">15</text>
+	<text transform="matrix(1 0 0 1 177.8418 91.2899)" font-family="'OCRA'" font-size="4px">16</text>
+	<text transform="matrix(1 0 0 1 184.8183 91.2895)" font-family="'OCRA'" font-size="4px">17</text>
+	<text transform="matrix(1 0 0 1 192.1438 91.2891)" font-family="'OCRA'" font-size="4px">18</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 131.096 71.4955)" font-family="'OCRA'" font-size="4px">3.3V</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 138.3656 71.4979)" font-family="'OCRA'" font-size="4px">SWCLK</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 145.6526 71.4955)" font-family="'OCRA'" font-size="4px">GND</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 152.7686 71.4974)" font-family="'OCRA'" font-size="4px">SWDIO</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 159.9895 71.4969)" font-family="'OCRA'" font-size="4px">U_TX</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 167.2685 71.4964)" font-family="'OCRA'" font-size="4px">U_RX</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 174.7143 71.4964)" font-family="'OCRA'" font-size="4px">PC1</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 181.7919 71.4955)" font-family="'OCRA'" font-size="4px">PC0</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 189.1145 71.4979)" font-family="'OCRA'" font-size="4px">PB14</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 196.3143 71.4955)" font-family="'OCRA'" font-size="4px">GND</text>
+	<text transform="matrix(-4.901923e-07 -1 1 -4.901923e-07 30.2228 71.4958)" font-family="'OCRA'" font-size="4px">5V</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 37.5135 71.4964)" font-family="'OCRA'" font-size="4px">PA7</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 44.6297 71.4964)" font-family="'OCRA'" font-size="4px">PA6</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 52.1385 71.4964)" font-family="'OCRA'" font-size="4px">PA4</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 59.3386 71.4964)" font-family="'OCRA'" font-size="4px">SWO</text>
+	<text transform="matrix(-4.739283e-03 -1 1 -4.739283e-03 66.2779 71.496)" font-family="'OCRA'" font-size="4px">PB2</text>
+	<text transform="matrix(-4.739283e-03 -1 1 -4.739283e-03 73.739 71.4957)" font-family="'OCRA'" font-size="4px">PC3</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 80.6297 71.4969)" font-family="'OCRA'" font-size="4px">GND</text>
+</g>
+<g id="silkscreen">
+	<circle id="PIN1" display="none" stroke="#000000" stroke-miterlimit="10" cx="29.12" cy="82.72" r="1.42"/>
+	<circle id="PIN2" display="none" stroke="#000000" stroke-miterlimit="10" cx="36.32" cy="82.72" r="1.42"/>
+	<circle id="PIN3" display="none" stroke="#000000" stroke-miterlimit="10" cx="43.52" cy="82.72" r="1.42"/>
+	<circle id="PIN4" display="none" stroke="#000000" stroke-miterlimit="10" cx="50.72" cy="82.72" r="1.42"/>
+	<circle id="PIN5" display="none" stroke="#000000" stroke-miterlimit="10" cx="57.92" cy="82.72" r="1.42"/>
+	<circle id="PIN6" display="none" stroke="#000000" stroke-miterlimit="10" cx="65.12" cy="82.72" r="1.42"/>
+	<circle id="PIN7" display="none" stroke="#000000" stroke-miterlimit="10" cx="72.32" cy="82.72" r="1.42"/>
+	<circle id="PIN8" display="none" stroke="#000000" stroke-miterlimit="10" cx="79.52" cy="82.72" r="1.42"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="25.21" y1="28.13" x2="25.21" y2="87.02"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="25.21" y1="87.02" x2="82.89" y2="87.02"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="24.72" y1="28.13" x2="32.56" y2="28.13"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="32.56" y1="28.13" x2="32.56" y2="87.02"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="75.54" y1="28.13" x2="75.82" y2="87.02"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="82.89" y1="28.13" x2="82.89" y2="87.02"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="75.54" y1="28.13" x2="82.89" y2="28.13"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="82.89" y1="56.93" x2="25.21" y2="56.93"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="32.56" y1="50.27" x2="75.65" y2="50.27"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="25.21" y1="79.67" x2="82.89" y2="79.67"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="25.21" y1="72.41" x2="82.89" y2="72.41"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="39.54" y1="87.02" x2="39.54" y2="50.27"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="46.8" y1="50.27" x2="46.8" y2="87.02"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="54.05" y1="87.02" x2="54.05" y2="50.27"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="61.31" y1="50.27" x2="61.31" y2="87.02"/>
+	<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="68.47" y1="87.02" x2="68.47" y2="50.27"/>
+	<text transform="matrix(1 0 0 1 27.7037 91.2891)" font-family="'OCRA'" font-size="4px">1</text>
+	<text transform="matrix(1 0 0 1 34.9037 91.2905)" font-family="'OCRA'" font-size="4px">2</text>
+	<text transform="matrix(1 0 0 1 42.104 91.289)" font-family="'OCRA'" font-size="4px">3</text>
+	<text transform="matrix(1 0 0 1 49.3038 91.2887)" font-family="'OCRA'" font-size="4px">4</text>
+	<text transform="matrix(1 0 0 1 56.5041 91.2884)" font-family="'OCRA'" font-size="4px">5</text>
+	<text transform="matrix(1 0 0 1 63.7039 91.2883)" font-family="'OCRA'" font-size="4px">6</text>
+	<text transform="matrix(1 0 0 1 70.9037 91.288)" font-family="'OCRA'" font-size="4px">7</text>
+	<text transform="matrix(1 0 0 1 78.104 91.2877)" font-family="'OCRA'" font-size="4px">8</text>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="126.14" y1="28.13" x2="126.14" y2="87.02"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="198.28" y1="87.02" x2="126.14" y2="87.02"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="198.28" y1="28.13" x2="198.28" y2="87.02"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="133.12" y1="28.13" x2="126.14" y2="28.13"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="133.12" y1="87.02" x2="133.12" y2="28.13"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="140.52" y1="87.02" x2="140.52" y2="28.13"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="147.91" y1="87.02" x2="147.91" y2="28.13"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="154.89" y1="87.02" x2="154.89" y2="50.27"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="162.21" y1="87.02" x2="162.21" y2="50.27"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="169.4" y1="87.02" x2="169.4" y2="50.27"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="176.8" y1="87.02" x2="176.8" y2="50.27"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="183.91" y1="87.02" x2="183.91" y2="50.27"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="191.17" y1="87.02" x2="191.17" y2="28.13"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="198.28" y1="28.13" x2="191.17" y2="28.13"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="147.91" y1="28.13" x2="140.52" y2="28.13"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="133.12" y1="28.13" x2="126.14" y2="28.13"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="143.73" y1="28.13" x2="144.21" y2="28.13"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="133.12" y1="50.27" x2="191.17" y2="50.27"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="126.14" y1="56.93" x2="198.28" y2="56.93"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="198.28" y1="72.41" x2="126.14" y2="72.41"/>
+	
+		<line fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" x1="126.14" y1="79.67" x2="198.28" y2="79.67"/>
+	<text transform="matrix(1 0 0 1 128.6802 91.2905)" font-family="'OCRA'" font-size="4px">9</text>
+	<circle id="PIN9" display="none" stroke="#000000" stroke-miterlimit="10" cx="130.1" cy="82.72" r="1.42"/>
+	<circle id="PIN10" display="none" stroke="#000000" stroke-miterlimit="10" cx="137.3" cy="82.72" r="1.42"/>
+	<circle id="PIN11" display="none" stroke="#000000" stroke-miterlimit="10" cx="144.5" cy="82.72" r="1.42"/>
+	<circle id="PIN12" display="none" stroke="#000000" stroke-miterlimit="10" cx="151.7" cy="82.72" r="1.42"/>
+	<circle id="PIN13" display="none" stroke="#000000" stroke-miterlimit="10" cx="158.9" cy="82.72" r="1.42"/>
+	<circle id="PIN14" display="none" stroke="#000000" stroke-miterlimit="10" cx="166.1" cy="82.72" r="1.42"/>
+	<circle id="PIN15" display="none" stroke="#000000" stroke-miterlimit="10" cx="173.3" cy="82.72" r="1.42"/>
+	<circle id="PIN16" display="none" stroke="#000000" stroke-miterlimit="10" cx="180.5" cy="82.72" r="1.42"/>
+	<circle id="PIN17" display="none" stroke="#000000" stroke-miterlimit="10" cx="187.7" cy="82.72" r="1.42"/>
+	<circle id="PIN18" display="none" stroke="#000000" stroke-miterlimit="10" cx="194.9" cy="82.72" r="1.42"/>
+	<text transform="matrix(1 0 0 1 133.958 91.2902)" font-family="'OCRA'" font-size="4px">10</text>
+	<text transform="matrix(1 0 0 1 141.7204 91.2902)" font-family="'OCRA'" font-size="4px">11</text>
+	<text transform="matrix(1 0 0 1 148.5394 91.2902)" font-family="'OCRA'" font-size="4px">12</text>
+	<text transform="matrix(1 0 0 1 155.7253 91.2905)" font-family="'OCRA'" font-size="4px">13</text>
+	<text transform="matrix(1 0 0 1 163.0509 91.2898)" font-family="'OCRA'" font-size="4px">14</text>
+	<text transform="matrix(1 0 0 1 170.2372 91.2906)" font-family="'OCRA'" font-size="4px">15</text>
+	<text transform="matrix(1 0 0 1 177.8418 91.2899)" font-family="'OCRA'" font-size="4px">16</text>
+	<text transform="matrix(1 0 0 1 184.8183 91.2895)" font-family="'OCRA'" font-size="4px">17</text>
+	<text transform="matrix(1 0 0 1 192.1438 91.2891)" font-family="'OCRA'" font-size="4px">18</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 131.096 71.4955)" font-family="'OCRA'" font-size="4px">3.3V</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 138.3656 71.4979)" font-family="'OCRA'" font-size="4px">SWCLK</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 145.6526 71.4955)" font-family="'OCRA'" font-size="4px">GND</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 152.7686 71.4974)" font-family="'OCRA'" font-size="4px">SWDIO</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 159.9895 71.4969)" font-family="'OCRA'" font-size="4px">U_TX</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 167.2685 71.4964)" font-family="'OCRA'" font-size="4px">U_RX</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 174.7143 71.4964)" font-family="'OCRA'" font-size="4px">PC1</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 181.7919 71.4955)" font-family="'OCRA'" font-size="4px">PC0</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 189.1145 71.4979)" font-family="'OCRA'" font-size="4px">PB14</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 196.3143 71.4955)" font-family="'OCRA'" font-size="4px">GND</text>
+	<text transform="matrix(-4.901923e-07 -1 1 -4.901923e-07 30.2228 71.4958)" font-family="'OCRA'" font-size="4px">5V</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 37.5135 71.4964)" font-family="'OCRA'" font-size="4px">PA7</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 44.6297 71.4964)" font-family="'OCRA'" font-size="4px">PA6</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 52.1385 71.4964)" font-family="'OCRA'" font-size="4px">PA4</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 59.3386 71.4964)" font-family="'OCRA'" font-size="4px">SWO</text>
+	<text transform="matrix(-4.739283e-03 -1 1 -4.739283e-03 66.2779 71.496)" font-family="'OCRA'" font-size="4px">PB2</text>
+	<text transform="matrix(-4.739283e-03 -1 1 -4.739283e-03 73.739 71.4957)" font-family="'OCRA'" font-size="4px">PC3</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 80.6297 71.4969)" font-family="'OCRA'" font-size="4px">GND</text>
+	
+		<circle id="Hole_Bottom_Right_00000092431908053908888630000001846128312571506580_" stroke="#000000" fill-opacity="0.5" stroke-miterlimit="10" cx="213.09" cy="75.23" r="4.54"/>
+	
+		<circle id="Hole_Bottom_Left_00000051364378875704722510000009549277799792825022_" stroke="#000000" fill-opacity="0.5" stroke-miterlimit="10" cx="11.02" cy="75.58" r="4.54"/>
+	
+		<circle id="Hole_Top_Right_00000099641037565833825370000012850937738666066860_" stroke="#000000" fill-opacity="0.5" stroke-miterlimit="10" cx="213.09" cy="11.07" r="4.54"/>
+	
+		<circle id="Hole_Top_Left_00000028304214423779095780000002373814589581941670_" stroke="#000000" fill-opacity="0.5" stroke-miterlimit="10" cx="11.02" cy="11.41" r="4.54"/>
+	<path id="silkscreen_path" fill="none" stroke="#000000" stroke-miterlimit="10" d="M111.97,0.97c33.07,0,66.15,0.01,99.22-0.02
+		c3.1,0,6.03,0.39,8.64,2.2c2.25,1.56,3.53,3.66,3.58,6.43c0.04,2.54,0.03,5.07,0.03,7.61c0,19.54-0.19,39.09,0.1,58.62
+		c0.11,7.57-5.12,10.51-10.84,10.76c-3.88,0.17-7.77,0.13-11.65,0.03c-1.56-0.04-2.01,0.63-2.08,2c-0.21,4.01-0.23,4.01-4.24,4.01
+		c-21.82,0-43.63,0-65.45,0c-0.45,0-0.9,0.01-1.34-0.02c-1.21-0.07-1.86-0.56-1.89-1.93c-0.08-4.04-0.13-4.05-4.24-4.05
+		c-12-0.01-24.01-0.01-36.01-0.01c-1.98,0-2.37,0.37-2.4,2.32c-0.06,3.88,0.62,3.67-3.87,3.67c-16.74,0-33.47,0.01-50.21,0.01
+		c-0.65,0-1.3,0.01-1.94-0.02c-1.97-0.08-2.18-0.3-2.19-2.31c-0.02-3.92,0.5-3.62-3.73-3.67c-3.14-0.03-6.28-0.01-9.41-0.03
+		c-3.44-0.03-6.61-0.89-9.08-3.39c-1.39-1.41-2.35-3.11-2.33-5.25c0.04-6.61,0.02-13.23,0.01-19.84c0-15.76,0.12-31.53-0.09-47.29
+		C0.49,5.63,3.75,2.4,8.02,1.42c1.34-0.31,2.75-0.44,4.13-0.44C45.42,0.96,78.69,0.96,111.97,0.97
+		C111.97,0.96,111.97,0.97,111.97,0.97z"/>
+</g>
+</svg>
