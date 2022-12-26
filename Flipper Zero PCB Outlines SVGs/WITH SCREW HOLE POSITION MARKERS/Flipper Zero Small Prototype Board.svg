@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="basic" id="Flipper_Zero_Small_Prototype_Board"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="222.8px" height="91px"
+	 viewBox="0 0 222.8 91" xml:space="preserve">
+<g id="board">
+	<path id="boardoutline" fill-opacity="0.5" fill="#FFFFFF" d="M0,11.3v61.2c0,6.3,5.1,11.3,11.3,11.3h12c0.8,0,1.4,0.6,1.4,1.4v4.3
+		c0,0.8,0.6,1.4,1.4,1.4h55.3c0.8,0,1.4-0.6,1.4-1.4v-4.3c0-0.8,0.6-1.4,1.4-1.4h40c0.8,0,1.4,0.6,1.4,1.4v4.3
+		c0,0.8,0.6,1.4,1.4,1.4h69.4c0.8,0,1.4-0.6,1.4-1.4v-4.3c0-0.8,0.6-1.4,1.4-1.4h12.1c6.3,0,11.3-5.1,11.3-11.3V11.3
+		c0-6.3-5.1-11.3-11.3-11.3H11.3C5.1,0,0,5.1,0,11.3z"/>
+</g>
+<g id="silkscreen0">
+	<g id="Right_Pins_Numbers_00000061466665392397504120000005535861189163537028_">
+		<text transform="matrix(1 0 0 1 128.0318 88.9278)" font-family="'OCRA'" font-size="4px">9</text>
+		<text transform="matrix(1 0 0 1 133.8012 88.9276)" font-family="'OCRA'" font-size="4px">10</text>
+		<text transform="matrix(1 0 0 1 141.0016 88.9291)" font-family="'OCRA'" font-size="4px">11</text>
+		<text transform="matrix(1 0 0 1 148.2006 88.928)" font-family="'OCRA'" font-size="4px">12</text>
+		<text transform="matrix(1 0 0 1 155.4011 88.9275)" font-family="'OCRA'" font-size="4px">13</text>
+		<text transform="matrix(1 0 0 1 162.6488 88.928)" font-family="'OCRA'" font-size="4px">14</text>
+		<text transform="matrix(1 0 0 1 169.8016 88.9274)" font-family="'OCRA'" font-size="4px">15</text>
+		<text transform="matrix(1 0 0 1 177.0013 88.9274)" font-family="'OCRA'" font-size="4px">16</text>
+		<text transform="matrix(1 0 0 1 184.2016 88.9276)" font-family="'OCRA'" font-size="4px">17</text>
+		<text transform="matrix(1 0 0 1 191.4011 88.9274)" font-family="'OCRA'" font-size="4px">18</text>
+	</g>
+	<g id="Right_Pins_Pinout_00000062874019565722215590000009753499165401307036_">
+		<rect x="125.8" y="55.2" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.3"/>
+		<rect x="133" y="55.2" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.3"/>
+		<rect x="140.2" y="55.2" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.3"/>
+		<rect x="147.4" y="55.2" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.3"/>
+		<rect x="154.6" y="55.2" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.3"/>
+		<rect x="161.8" y="55.2" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.3"/>
+		<rect x="169" y="55.2" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.3"/>
+		<rect x="176.2" y="55.2" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.3"/>
+		<rect x="183.4" y="55.2" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.3"/>
+		<rect x="190.6" y="55.2" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.3"/>
+		<rect x="125.8" y="55.1" fill="none" stroke="#000000" stroke-width="0.72" width="72" height="14"/>
+		<text transform="matrix(0 -1 1 0 131.0666 68.4228)" font-family="'OCRA'" font-size="4.5px">3.3V</text>
+		<text transform="matrix(0 -1 1 0 138.2667 68.4228)" font-family="'OCRA'" font-size="4.5px">SWC</text>
+		<text transform="matrix(0 -1 1 0 145.4666 68.4228)" font-family="'OCRA'" font-size="4.5px">GND</text>
+		<text transform="matrix(0 -1 1 0 152.6667 68.4228)" font-family="'OCRA'" font-size="4.5px">SIO</text>
+		<text transform="matrix(0 -1 1 0 159.8665 68.4228)" font-family="'OCRA'" font-size="4.5px">TX</text>
+		<text transform="matrix(0 -1 1 0 167.0666 68.4228)" font-family="'OCRA'" font-size="4.5px">RX</text>
+		<text transform="matrix(0 -1 1 0 174.2663 68.4228)" font-family="'OCRA'" font-size="4.5px">C1</text>
+		<text transform="matrix(0 -1 1 0 181.4659 68.4228)" font-family="'OCRA'" font-size="4.5px">C0</text>
+		<text transform="matrix(0 -1 1 0 188.6666 68.4228)" font-family="'OCRA'" font-size="4.5px">1W</text>
+		<text transform="matrix(0 -1 1 0 195.8669 68.4228)" font-family="'OCRA'" font-size="4.5px">GND</text>
+	</g>
+	<g id="Left_Pins_Numbers_00000010990500520988457490000000280325831646913686_">
+		<text transform="matrix(1 0 0 1 27.2314 88.9288)" font-family="'OCRA'" font-size="4px">1</text>
+		<text transform="matrix(1 0 0 1 34.4306 88.9287)" font-family="'OCRA'" font-size="4px">2</text>
+		<text transform="matrix(1 0 0 1 41.6309 88.9287)" font-family="'OCRA'" font-size="4px">3</text>
+		<text transform="matrix(1 0 0 1 48.8324 88.9277)" font-family="'OCRA'" font-size="4px">4</text>
+		<text transform="matrix(1 0 0 1 56.0316 88.9287)" font-family="'OCRA'" font-size="4px">5</text>
+		<text transform="matrix(1 0 0 1 63.2321 88.9287)" font-family="'OCRA'" font-size="4px">6</text>
+		<text transform="matrix(1 0 0 1 70.4314 88.9286)" font-family="'OCRA'" font-size="4px">7</text>
+		<text transform="matrix(1 0 0 1 77.6314 88.9277)" font-family="'OCRA'" font-size="4px">8</text>
+	</g>
+	<g id="Left_Pins_Pinout_00000124870517080060363910000001995047049584056981_">
+		<rect x="25" y="55.1" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.3"/>
+		<rect x="32.2" y="55.1" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.3"/>
+		<rect x="39.4" y="55.1" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.3"/>
+		<rect x="46.6" y="55.1" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.3"/>
+		<rect x="53.8" y="55.1" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.3"/>
+		<rect x="61" y="55.1" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.3"/>
+		<rect x="68.2" y="55.1" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.3"/>
+		<rect x="75.4" y="55.1" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.3"/>
+		<rect x="25" y="55" fill="none" stroke="#000000" stroke-width="0.72" width="57.6" height="14"/>
+		<text transform="matrix(0 -1 1 0 30.267 68.3877)" font-family="'OCRA'" font-size="4.5px">5V</text>
+		<text transform="matrix(0 -1 1 0 37.4671 68.3877)" font-family="'OCRA'" font-size="4.5px">A7</text>
+		<text transform="matrix(0 -1 1 0 44.6671 68.3877)" font-family="'OCRA'" font-size="4.5px">A6</text>
+		<text transform="matrix(0 -1 1 0 51.8671 68.3877)" font-family="'OCRA'" font-size="4.5px">A4</text>
+		<text transform="matrix(0 -1 1 0 59.0672 68.3877)" font-family="'OCRA'" font-size="4.5px">B3</text>
+		<text transform="matrix(0 -1 1 0 66.2669 68.3877)" font-family="'OCRA'" font-size="4.5px">B2</text>
+		<text transform="matrix(0 -1 1 0 73.4673 68.3896)" font-family="'OCRA'" font-size="4.5px">C3</text>
+		<text transform="matrix(0 -1 1 0 80.6672 68.3877)" font-family="'OCRA'" font-size="4.5px">GND</text>
+	</g>
+	<g id="PCB_Mounting_Holes_00000088127097769917959370000012219267098045852306_">
+		<g id="Bottom_Right_00000009585347529438382980000003583220055231553704_">
+			<circle id="Screw_Trace_00000134953390461897405440000007880868729376701625_" fill="#B3B3B3" cx="211.5" cy="72.4" r="9.9"/>
+			<circle id="_x33_.2mm_Hole_00000096048002874858555970000009255770648449408162_" cx="211.5" cy="72.4" r="4.5"/>
+		</g>
+		<g id="Bottom_Left_00000124125736120394944050000005467247736842189992_">
+			<circle id="Screw_Trace_00000071541600777920284880000015352665629740335519_" fill="#B3B3B3" cx="11.3" cy="72.4" r="9.9"/>
+			<circle id="_x33_.2mm_Hole_00000026869987670104285620000000287158535502436542_" cx="11.3" cy="72.4" r="4.5"/>
+		</g>
+		<g id="Top_Right_00000022542353147401855030000013296185853971524761_">
+			<circle id="Screw_Trace_00000114780881441638609130000002223517935618873529_" fill="#B3B3B3" cx="211.5" cy="11.3" r="9.9"/>
+			<circle id="_x33_.2mm_Hole_00000150816478060834565240000018009028499952040633_" cx="211.5" cy="11.3" r="4.5"/>
+		</g>
+		<g id="Top_Left_00000166637981793861657380000016507875894422057393_">
+			<circle id="Screw_Trace_00000039820148453182575110000002331794843662629550_" fill="#B3B3B3" cx="11.3" cy="11.3" r="9.9"/>
+			<circle id="_x33_.2mm_Hole_00000060719838765010875650000005537186244478014613_" cx="11.3" cy="11.3" r="4.5"/>
+		</g>
+	</g>
+</g>
+</svg>
