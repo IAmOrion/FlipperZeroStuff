@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="basic" id="Flipper_Custom_PCB_100x60"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="284.157px"
+	 height="177.165px" viewBox="0 0 284.157 177.165" xml:space="preserve">
+<g id="board">
+	<g id="boardoutline">
+		<path fill-opacity="0.5" fill="#FFFFFF" d="M157.407,176.915c-0.644,0-1.167-0.523-1.167-1.167v-4.252c0-0.92-0.748-1.668-1.667-1.668
+			h-39.969c-0.919,0-1.667,0.748-1.667,1.668v4.252c0,0.644-0.524,1.167-1.167,1.167H56.494c-0.644,0-1.167-0.523-1.167-1.167
+			v-4.252c0-0.92-0.748-1.668-1.667-1.668H11.339c-6.114,0-11.088-4.974-11.088-11.088V11.339C0.25,5.224,5.224,0.25,11.339,0.25
+			h260.788c6.114,0,11.089,4.974,11.089,11.088V158.74c0,6.114-4.975,11.088-11.089,11.088h-42.435c-0.92,0-1.668,0.748-1.668,1.668
+			v4.252c0,0.644-0.523,1.167-1.167,1.167H157.407z"/>
+		<path d="M272.126,0.5c5.976,0,10.839,4.862,10.839,10.839V158.74c0,5.976-4.862,10.839-10.839,10.839h-42.434
+			c-1.057,0-1.917,0.86-1.917,1.917v4.252c0,0.506-0.411,0.917-0.917,0.917h-69.449c-0.506,0-0.917-0.411-0.917-0.917v-4.252
+			c0-1.057-0.86-1.917-1.917-1.917h-39.969c-1.057,0-1.917,0.86-1.917,1.917v4.252c0,0.506-0.411,0.917-0.917,0.917H56.495
+			c-0.506,0-0.917-0.411-0.917-0.917v-4.252c0-1.057-0.86-1.917-1.917-1.917H11.339c-5.976,0-10.839-4.862-10.839-10.839V11.339
+			C0.5,5.362,5.362,0.5,11.339,0.5H272.126 M272.126,0H11.339C5.076,0,0,5.076,0,11.339V158.74c0,6.262,5.076,11.339,11.339,11.339
+			H53.66c0.783,0,1.417,0.635,1.417,1.417v4.252c0,0.783,0.635,1.417,1.417,1.417h55.276c0.783,0,1.417-0.635,1.417-1.417v-4.252
+			c0-0.783,0.635-1.417,1.417-1.417h39.969c0.783,0,1.417,0.635,1.417,1.417v4.252c0,0.783,0.635,1.417,1.417,1.417h69.449
+			c0.783,0,1.417-0.635,1.417-1.417v-4.252c0-0.783,0.635-1.417,1.417-1.417h42.434c6.262,0,11.339-5.076,11.339-11.339V11.339
+			C283.465,5.076,278.388,0,272.126,0L272.126,0z"/>
+	</g>
+</g>
+<g id="silkscreen0">
+</g>
+<g id="silkscreen">
+	<g id="Pins_00000171703268858552608720000002698003900099817109_" display="none">
+		<g id="copper0_00000088854287427104750350000000967101256022167201_" display="inline">
+			
+				<circle id="connector0pin_00000084505570961527149240000000978571907111727243_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="58.932" cy="166.06" r="2.088"/>
+			
+				<circle id="connector1pin_00000168839303063939853240000010068715189763607716_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="66.132" cy="166.06" r="2.088"/>
+			
+				<circle id="connector2pin_00000087398865299168016980000007866954224661844159_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="73.332" cy="166.06" r="2.088"/>
+			
+				<circle id="connector3pin_00000134953300955229449180000016118595603178922935_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="80.532" cy="166.06" r="2.088"/>
+			
+				<circle id="connector4pin_00000013891032511987492680000016265217854773430404_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="87.732" cy="166.06" r="2.088"/>
+			
+				<circle id="connector5pin_00000161619065848023397140000013207254486904172216_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="94.932" cy="166.06" r="2.088"/>
+			
+				<circle id="connector6pin_00000148625771722961221850000016472564778760479895_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="102.132" cy="166.06" r="2.088"/>
+			
+				<circle id="connector7pin_00000134235504145833833880000002243995039608094891_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="109.332" cy="166.06" r="2.088"/>
+			
+				<circle id="connector8pin_00000165925797863517248380000017082895185671038902_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="116.532" cy="166.06" r="2.088"/>
+			
+				<circle id="connector9pin_00000099650577021749975250000005449217595203362177_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="123.732" cy="166.06" r="2.088"/>
+			
+				<circle id="connector10pin_00000087414472473683440820000013867584553332269458_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="130.932" cy="166.06" r="2.088"/>
+			
+				<circle id="connector11pin_00000152222827345515508660000004115764488587188608_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="138.132" cy="166.06" r="2.088"/>
+			
+				<circle id="connector12pin_00000012450320595531666410000000827651749605221531_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="145.332" cy="166.06" r="2.088"/>
+			
+				<circle id="connector13pin_00000035532935921617960780000003508449711030363811_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="152.532" cy="166.06" r="2.088"/>
+			
+				<circle id="connector14pin_00000116948228994279779180000003506893132871727277_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="159.732" cy="166.06" r="2.088"/>
+			
+				<circle id="connector15pin_00000139293139308878082810000009081611426129600910_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="166.932" cy="166.06" r="2.088"/>
+			
+				<circle id="connector16pin_00000035492727659812597830000014316603890179177649_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="174.132" cy="166.06" r="2.088"/>
+			
+				<circle id="connector17pin_00000050622623483639400750000016819713297329961148_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="181.332" cy="166.06" r="2.088"/>
+			
+				<circle id="connector18pin_00000149361053855917439560000009250626322181129141_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="188.532" cy="166.06" r="2.088"/>
+			
+				<circle id="connector19pin_00000167374933909673266820000017058850487220100997_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="195.732" cy="166.06" r="2.088"/>
+			
+				<circle id="connector20pin_00000097497623622605081240000014261998764576358564_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="202.932" cy="166.06" r="2.088"/>
+			
+				<circle id="connector21pin_00000092415268534965361660000011322505295928415373_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="210.132" cy="166.06" r="2.088"/>
+			
+				<circle id="connector22pin_00000104706551821921517060000011567853367362272165_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="217.332" cy="166.06" r="2.088"/>
+			
+				<circle id="connector23pin_00000080207572630806416550000017981871003776562586_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="224.532" cy="166.06" r="2.088"/>
+			
+				<circle id="connector0pin_00000086667417880975201990000018438987986294992283_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="58.932" cy="166.06" r="2.088"/>
+			
+				<circle id="connector1pin_00000127003897090699147840000009177186931647110290_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="66.132" cy="166.06" r="2.088"/>
+			
+				<circle id="connector2pin_00000083072732527225712790000014351069799717282231_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="73.332" cy="166.06" r="2.088"/>
+			
+				<circle id="connector3pin_00000096051416668565995930000001559357903524928916_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="80.532" cy="166.06" r="2.088"/>
+			
+				<circle id="connector4pin_00000132795482110967456700000001727259996242322365_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="87.732" cy="166.06" r="2.088"/>
+			
+				<circle id="connector5pin_00000138559795007921990260000002917607961578312344_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="94.932" cy="166.06" r="2.088"/>
+			
+				<circle id="connector6pin_00000121244017521826490230000008217561902132528522_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="102.132" cy="166.06" r="2.088"/>
+			
+				<circle id="connector7pin_00000080884800130783399290000001179450554893314178_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="109.332" cy="166.06" r="2.088"/>
+			
+				<circle id="connector8pin_00000162324417744035257560000014707062852207975868_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="116.532" cy="166.06" r="2.088"/>
+			
+				<circle id="connector9pin_00000145757776646795431680000003878789534192696979_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="123.732" cy="166.06" r="2.088"/>
+			
+				<circle id="connector10pin_00000102507202278977853040000016345156985744801175_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="130.932" cy="166.06" r="2.088"/>
+			
+				<circle id="connector11pin_00000142174294454475053760000009364026764704565923_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="138.132" cy="166.06" r="2.088"/>
+			
+				<circle id="connector12pin_00000023277621445921912520000006921333371352530347_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="145.332" cy="166.06" r="2.088"/>
+			
+				<circle id="connector13pin_00000065766802415294615770000015244598000220689077_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="152.532" cy="166.06" r="2.088"/>
+			
+				<circle id="connector14pin_00000087396406747331651720000006748712913982860444_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="159.732" cy="166.06" r="2.088"/>
+			
+				<circle id="connector15pin_00000052793155281078870550000001042283846060580232_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="166.932" cy="166.06" r="2.088"/>
+			
+				<circle id="connector16pin_00000092432778453468228440000010229154446228492213_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="174.132" cy="166.06" r="2.088"/>
+			
+				<circle id="connector17pin_00000057855566477683470290000018294484238230228107_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="181.332" cy="166.06" r="2.088"/>
+			
+				<circle id="connector18pin_00000168099405965169656090000000392715254231177625_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="188.532" cy="166.06" r="2.088"/>
+			
+				<circle id="connector19pin_00000021093906006560239490000001769494061441318061_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="195.732" cy="166.06" r="2.088"/>
+			
+				<circle id="connector20pin_00000161590782373734272660000001252742889174743454_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="202.932" cy="166.06" r="2.088"/>
+			
+				<circle id="connector21pin_00000062188991888902927110000011093119869325639088_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="210.132" cy="166.06" r="2.088"/>
+			
+				<circle id="connector22pin_00000011751021539743173190000000357480121887220622_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="217.332" cy="166.06" r="2.088"/>
+			
+				<circle id="connector23pin_00000175295601832751511750000006901116146642847138_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="224.532" cy="166.06" r="2.088"/>
+			
+				<circle id="connector24pin_00000027578781029305981400000008294166299078664585_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="224.532" cy="158.86" r="2.088"/>
+			
+				<circle id="connector25pin_00000077316038538288511820000005563517580476387221_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="217.332" cy="158.86" r="2.088"/>
+			
+				<circle id="connector26pin_00000068636454460842946820000007730330878608836260_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="210.132" cy="158.86" r="2.088"/>
+			
+				<circle id="connector27pin_00000026882481824364726720000008815080301915133103_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="202.932" cy="158.86" r="2.088"/>
+			
+				<circle id="connector28pin_00000124849434914835875770000007091195655829242807_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="195.732" cy="158.86" r="2.088"/>
+			
+				<circle id="connector29pin_00000111150236521156593340000013989465452633349015_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="188.532" cy="158.86" r="2.088"/>
+			
+				<circle id="connector30pin_00000107578424483156154500000008691830389533714574_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="181.332" cy="158.86" r="2.088"/>
+			
+				<circle id="connector31pin_00000054970093260106957080000003686250834591791772_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="174.132" cy="158.86" r="2.088"/>
+			
+				<circle id="connector32pin_00000018203685355858273190000003951433403844555674_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="166.932" cy="158.86" r="2.088"/>
+			
+				<circle id="connector33pin_00000029016195765738290130000015318183614389963417_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="159.732" cy="158.86" r="2.088"/>
+			
+				<circle id="connector34pin_00000036943523944840355220000006077299354596938630_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="152.532" cy="158.86" r="2.088"/>
+			
+				<circle id="connector35pin_00000049183626299010362640000014994805458181533075_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="145.332" cy="158.86" r="2.088"/>
+			
+				<circle id="connector36pin_00000155148455005214683560000009975103317628427405_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="138.132" cy="158.86" r="2.088"/>
+			
+				<circle id="connector37pin_00000072251400244151022170000003662288651730371770_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="130.932" cy="158.86" r="2.088"/>
+			
+				<circle id="connector38pin_00000183950224725310919940000008354477128125391238_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="123.732" cy="158.86" r="2.088"/>
+			
+				<circle id="connector39pin_00000132057476966916661670000005647995185065579442_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="116.532" cy="158.86" r="2.088"/>
+			
+				<circle id="connector40pin_00000008839864991636589530000017317645857288711301_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="109.332" cy="158.86" r="2.088"/>
+			
+				<circle id="connector41pin_00000180352134572504100440000013711256691815006088_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="102.132" cy="158.86" r="2.088"/>
+			
+				<circle id="connector42pin_00000046341377381688118180000004273370811570101154_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="94.932" cy="158.86" r="2.088"/>
+			
+				<circle id="connector43pin_00000009581213727730312050000009953227277772610945_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="87.732" cy="158.86" r="2.088"/>
+			
+				<circle id="connector44pin_00000116945308083632127630000004567681527123106743_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="80.532" cy="158.86" r="2.088"/>
+			
+				<circle id="connector45pin_00000129903267340597008670000017137878443410278561_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="73.332" cy="158.86" r="2.088"/>
+			
+				<circle id="connector46pin_00000029765434584174403070000006316584285194335908_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="66.132" cy="158.86" r="2.088"/>
+			
+				<circle id="connector47pin_00000043455593791226939060000001912952507951377061_" fill="none" stroke="#FFBF00" stroke-width="1.44" cx="58.932" cy="158.86" r="2.088"/>
+		</g>
+		<g id="silkscreen_00000024687488149238958450000015937831364296823714_" display="inline">
+			<line fill="none" stroke="#000000" stroke-width="0.72" x1="55.332" y1="169.66" x2="228.132" y2="169.66"/>
+			<line fill="none" stroke="#000000" stroke-width="0.72" x1="228.132" y1="169.66" x2="228.132" y2="155.26"/>
+			<line fill="none" stroke="#000000" stroke-width="0.72" x1="228.132" y1="155.26" x2="55.332" y2="155.26"/>
+			<line fill="none" stroke="#000000" stroke-width="0.72" x1="55.332" y1="155.26" x2="55.332" y2="169.66"/>
+			<line fill="none" stroke="#000000" stroke-width="0.36" x1="57.852" y1="169.66" x2="55.332" y2="167.14"/>
+		</g>
+	</g>
+	<g id="Right_Pins_Numbers">
+		<text transform="matrix(1 0 0 1 158.362 175.1823)" font-family="'OCRA'" font-size="4px">9</text>
+		<text transform="matrix(1 0 0 1 164.1315 175.1821)" font-family="'OCRA'" font-size="4px">10</text>
+		<text transform="matrix(1 0 0 1 171.3318 175.1826)" font-family="'OCRA'" font-size="4px">11</text>
+		<text transform="matrix(1 0 0 1 178.5309 175.1825)" font-family="'OCRA'" font-size="4px">12</text>
+		<text transform="matrix(1 0 0 1 185.7314 175.182)" font-family="'OCRA'" font-size="4px">13</text>
+		<text transform="matrix(1 0 0 1 192.979 175.1825)" font-family="'OCRA'" font-size="4px">14</text>
+		<text transform="matrix(1 0 0 1 200.1319 175.1819)" font-family="'OCRA'" font-size="4px">15</text>
+		<text transform="matrix(1 0 0 1 207.3315 175.1819)" font-family="'OCRA'" font-size="4px">16</text>
+		<text transform="matrix(1 0 0 1 214.5319 175.1821)" font-family="'OCRA'" font-size="4px">17</text>
+		<text transform="matrix(1 0 0 1 221.7314 175.1819)" font-family="'OCRA'" font-size="4px">18</text>
+	</g>
+	<g id="Right_Pins_Pinout">
+		<rect x="156.132" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="163.332" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="170.532" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="177.732" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="184.932" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="192.132" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="199.332" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="206.532" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="213.732" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="220.932" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="156.132" y="141.067" fill="none" stroke="#000000" stroke-width="0.72" width="72" height="14.031"/>
+		<text transform="matrix(0 -1 1 0 161.3973 154.4094)" font-family="'OCRA'" font-size="4.5px">3.3V</text>
+		<text transform="matrix(0 -1 1 0 168.5974 154.4094)" font-family="'OCRA'" font-size="4.5px">SWC</text>
+		<text transform="matrix(0 -1 1 0 175.7973 154.4094)" font-family="'OCRA'" font-size="4.5px">GND</text>
+		<text transform="matrix(0 -1 1 0 182.9974 154.4094)" font-family="'OCRA'" font-size="4.5px">SIO</text>
+		<text transform="matrix(0 -1 1 0 190.1972 154.4094)" font-family="'OCRA'" font-size="4.5px">TX</text>
+		<text transform="matrix(0 -1 1 0 197.3973 154.4094)" font-family="'OCRA'" font-size="4.5px">RX</text>
+		<text transform="matrix(0 -1 1 0 204.597 154.4094)" font-family="'OCRA'" font-size="4.5px">C1</text>
+		<text transform="matrix(0 -1 1 0 211.7966 154.4094)" font-family="'OCRA'" font-size="4.5px">C0</text>
+		<text transform="matrix(0 -1 1 0 218.9973 154.4094)" font-family="'OCRA'" font-size="4.5px">1W</text>
+		<text transform="matrix(0 -1 1 0 226.1976 154.4094)" font-family="'OCRA'" font-size="4.5px">GND</text>
+	</g>
+	<g id="Left_Pins_Numbers">
+		<text transform="matrix(1 0 0 1 57.5616 175.1824)" font-family="'OCRA'" font-size="4px">1</text>
+		<text transform="matrix(1 0 0 1 64.7608 175.1818)" font-family="'OCRA'" font-size="4px">2</text>
+		<text transform="matrix(1 0 0 1 71.9611 175.1818)" font-family="'OCRA'" font-size="4px">3</text>
+		<text transform="matrix(1 0 0 1 79.1626 175.1823)" font-family="'OCRA'" font-size="4px">4</text>
+		<text transform="matrix(1 0 0 1 86.3618 175.1818)" font-family="'OCRA'" font-size="4px">5</text>
+		<text transform="matrix(1 0 0 1 93.5623 175.1818)" font-family="'OCRA'" font-size="4px">6</text>
+		<text transform="matrix(1 0 0 1 100.7617 175.1816)" font-family="'OCRA'" font-size="4px">7</text>
+		<text transform="matrix(1 0 0 1 107.9616 175.1823)" font-family="'OCRA'" font-size="4px">8</text>
+	</g>
+	<g id="Left_Pins_Pinout">
+		<rect x="55.332" y="141.314" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="62.532" y="141.314" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="69.732" y="141.314" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="76.932" y="141.314" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="84.132" y="141.314" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="91.332" y="141.314" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="98.532" y="141.314" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="105.732" y="141.314" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="55.332" y="141.243" fill="none" stroke="#000000" stroke-width="0.72" width="57.6" height="14.031"/>
+		<text transform="matrix(0 -1 1 0 60.5972 154.5852)" font-family="'OCRA'" font-size="4.5px">5V</text>
+		<text transform="matrix(0 -1 1 0 67.7973 154.5852)" font-family="'OCRA'" font-size="4.5px">A7</text>
+		<text transform="matrix(0 -1 1 0 74.9973 154.5852)" font-family="'OCRA'" font-size="4.5px">A6</text>
+		<text transform="matrix(0 -1 1 0 82.1973 154.5852)" font-family="'OCRA'" font-size="4.5px">A4</text>
+		<text transform="matrix(0 -1 1 0 89.3975 154.5852)" font-family="'OCRA'" font-size="4.5px">B3</text>
+		<text transform="matrix(0 -1 1 0 96.5971 154.5852)" font-family="'OCRA'" font-size="4.5px">B2</text>
+		<text transform="matrix(0 -1 1 0 103.7975 154.5872)" font-family="'OCRA'" font-size="4.5px">C3</text>
+		<text transform="matrix(0 -1 1 0 110.9974 154.5852)" font-family="'OCRA'" font-size="4.5px">GND</text>
+	</g>
+	<g id="PCB_Mounting_Holes_00000088127097769917959370000012219267098045852306_" display="none">
+		<g id="Bottom_Right_00000009585347529438382980000003583220055231553704_" display="inline">
+			
+				<circle id="Screw_Trace_00000134953390461897405440000007880868729376701625_" opacity="0.5" fill="#B3B3B3" cx="272.146" cy="158.76" r="9.9"/>
+			<circle id="_x33_.2mm_Hole_00000096048002874858555970000009255770648449408162_" cx="272.146" cy="158.76" r="4.5"/>
+		</g>
+		<g id="Bottom_Left_00000124125736120394944050000005467247736842189992_" display="inline">
+			
+				<circle id="Screw_Trace_00000071541600777920284880000015352665629740335519_" opacity="0.5" fill="#B3B3B3" cx="11.319" cy="158.76" r="9.9"/>
+			<circle id="_x33_.2mm_Hole_00000026869987670104285620000000287158535502436542_" cx="11.319" cy="158.76" r="4.5"/>
+		</g>
+		<g id="Top_Right_00000022542353147401855030000013296185853971524761_" display="inline">
+			
+				<circle id="Screw_Trace_00000114780881441638609130000002223517935618873529_" opacity="0.5" fill="#B3B3B3" cx="272.146" cy="11.319" r="9.9"/>
+			<circle id="_x33_.2mm_Hole_00000150816478060834565240000018009028499952040633_" cx="272.146" cy="11.319" r="4.5"/>
+		</g>
+		<g id="Top_Left_00000166637981793861657380000016507875894422057393_" display="inline">
+			
+				<circle id="Screw_Trace_00000039820148453182575110000002331794843662629550_" opacity="0.5" fill="#B3B3B3" cx="11.319" cy="11.319" r="9.9"/>
+			<circle id="_x33_.2mm_Hole_00000060719838765010875650000005537186244478014613_" cx="11.319" cy="11.319" r="4.5"/>
+		</g>
+	</g>
+</g>
+</svg>
