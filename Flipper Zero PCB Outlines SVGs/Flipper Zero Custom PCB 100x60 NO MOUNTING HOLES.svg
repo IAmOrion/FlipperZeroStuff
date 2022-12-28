@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="basic" id="Flipper_Custom_PCB_100x60"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="284.157px"
+	 height="177.165px" viewBox="0 0 284.157 177.165" xml:space="preserve">
+<g id="board">
+	<g id="boardoutline">
+		<path fill-opacity="0.5" fill="#FFFFFF" d="M157.407,176.915c-0.644,0-1.167-0.523-1.167-1.167v-4.252c0-0.92-0.748-1.668-1.667-1.668
+			h-39.969c-0.919,0-1.667,0.748-1.667,1.668v4.252c0,0.644-0.524,1.167-1.167,1.167H56.494c-0.644,0-1.167-0.523-1.167-1.167
+			v-4.252c0-0.92-0.748-1.668-1.667-1.668H11.339c-6.114,0-11.088-4.974-11.088-11.088V11.339C0.25,5.224,5.224,0.25,11.339,0.25
+			h260.788c6.114,0,11.089,4.974,11.089,11.088V158.74c0,6.114-4.975,11.088-11.089,11.088h-42.435c-0.92,0-1.668,0.748-1.668,1.668
+			v4.252c0,0.644-0.523,1.167-1.167,1.167H157.407z"/>
+		<path d="M272.126,0.5c5.976,0,10.839,4.862,10.839,10.839V158.74c0,5.976-4.862,10.839-10.839,10.839h-42.434
+			c-1.057,0-1.917,0.86-1.917,1.917v4.252c0,0.506-0.411,0.917-0.917,0.917h-69.449c-0.506,0-0.917-0.411-0.917-0.917v-4.252
+			c0-1.057-0.86-1.917-1.917-1.917h-39.969c-1.057,0-1.917,0.86-1.917,1.917v4.252c0,0.506-0.411,0.917-0.917,0.917H56.495
+			c-0.506,0-0.917-0.411-0.917-0.917v-4.252c0-1.057-0.86-1.917-1.917-1.917H11.339c-5.976,0-10.839-4.862-10.839-10.839V11.339
+			C0.5,5.362,5.362,0.5,11.339,0.5H272.126 M272.126,0H11.339C5.076,0,0,5.076,0,11.339V158.74c0,6.262,5.076,11.339,11.339,11.339
+			H53.66c0.783,0,1.417,0.635,1.417,1.417v4.252c0,0.783,0.635,1.417,1.417,1.417h55.276c0.783,0,1.417-0.635,1.417-1.417v-4.252
+			c0-0.783,0.635-1.417,1.417-1.417h39.969c0.783,0,1.417,0.635,1.417,1.417v4.252c0,0.783,0.635,1.417,1.417,1.417h69.449
+			c0.783,0,1.417-0.635,1.417-1.417v-4.252c0-0.783,0.635-1.417,1.417-1.417h42.434c6.262,0,11.339-5.076,11.339-11.339V11.339
+			C283.465,5.076,278.388,0,272.126,0L272.126,0z"/>
+	</g>
+</g>
+<g id="silkscreen0">
+</g>
+<g id="silkscreen">
+	<g id="Right_Pins_Numbers">
+		<text transform="matrix(1 0 0 1 158.362 175.1823)" font-family="'OCRA'" font-size="4px">9</text>
+		<text transform="matrix(1 0 0 1 164.1315 175.1821)" font-family="'OCRA'" font-size="4px">10</text>
+		<text transform="matrix(1 0 0 1 171.3318 175.1826)" font-family="'OCRA'" font-size="4px">11</text>
+		<text transform="matrix(1 0 0 1 178.5309 175.1825)" font-family="'OCRA'" font-size="4px">12</text>
+		<text transform="matrix(1 0 0 1 185.7314 175.182)" font-family="'OCRA'" font-size="4px">13</text>
+		<text transform="matrix(1 0 0 1 192.979 175.1825)" font-family="'OCRA'" font-size="4px">14</text>
+		<text transform="matrix(1 0 0 1 200.1318 175.1819)" font-family="'OCRA'" font-size="4px">15</text>
+		<text transform="matrix(1 0 0 1 207.3315 175.1819)" font-family="'OCRA'" font-size="4px">16</text>
+		<text transform="matrix(1 0 0 1 214.5319 175.1821)" font-family="'OCRA'" font-size="4px">17</text>
+		<text transform="matrix(1 0 0 1 221.7314 175.1819)" font-family="'OCRA'" font-size="4px">18</text>
+	</g>
+	<g id="Right_Pins_Pinout">
+		<rect x="156.132" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="163.332" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="170.532" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="177.732" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="184.932" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="192.132" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="199.332" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="206.532" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="213.732" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="220.932" y="141.137" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="156.132" y="141.067" fill="none" stroke="#000000" stroke-width="0.72" width="72" height="14.031"/>
+		<text transform="matrix(0 -1 1 0 161.3973 154.4094)" font-family="'OCRA'" font-size="4.5px">3.3V</text>
+		<text transform="matrix(0 -1 1 0 168.5974 154.4094)" font-family="'OCRA'" font-size="4.5px">SWC</text>
+		<text transform="matrix(0 -1 1 0 175.7973 154.4094)" font-family="'OCRA'" font-size="4.5px">GND</text>
+		<text transform="matrix(0 -1 1 0 182.9974 154.4094)" font-family="'OCRA'" font-size="4.5px">SIO</text>
+		<text transform="matrix(0 -1 1 0 190.1972 154.4094)" font-family="'OCRA'" font-size="4.5px">TX</text>
+		<text transform="matrix(0 -1 1 0 197.3973 154.4094)" font-family="'OCRA'" font-size="4.5px">RX</text>
+		<text transform="matrix(0 -1 1 0 204.597 154.4094)" font-family="'OCRA'" font-size="4.5px">C1</text>
+		<text transform="matrix(0 -1 1 0 211.7966 154.4094)" font-family="'OCRA'" font-size="4.5px">C0</text>
+		<text transform="matrix(0 -1 1 0 218.9973 154.4094)" font-family="'OCRA'" font-size="4.5px">1W</text>
+		<text transform="matrix(0 -1 1 0 226.1976 154.4094)" font-family="'OCRA'" font-size="4.5px">GND</text>
+	</g>
+	<g id="Left_Pins_Numbers">
+		<text transform="matrix(1 0 0 1 57.5616 175.1824)" font-family="'OCRA'" font-size="4px">1</text>
+		<text transform="matrix(1 0 0 1 64.7608 175.1818)" font-family="'OCRA'" font-size="4px">2</text>
+		<text transform="matrix(1 0 0 1 71.9611 175.1818)" font-family="'OCRA'" font-size="4px">3</text>
+		<text transform="matrix(1 0 0 1 79.1626 175.1823)" font-family="'OCRA'" font-size="4px">4</text>
+		<text transform="matrix(1 0 0 1 86.3618 175.1818)" font-family="'OCRA'" font-size="4px">5</text>
+		<text transform="matrix(1 0 0 1 93.5623 175.1818)" font-family="'OCRA'" font-size="4px">6</text>
+		<text transform="matrix(1 0 0 1 100.7617 175.1816)" font-family="'OCRA'" font-size="4px">7</text>
+		<text transform="matrix(1 0 0 1 107.9616 175.1823)" font-family="'OCRA'" font-size="4px">8</text>
+	</g>
+	<g id="Left_Pins_Pinout">
+		<rect x="55.332" y="141.314" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="62.532" y="141.314" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="69.732" y="141.314" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="76.932" y="141.314" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="84.132" y="141.314" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="91.332" y="141.314" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="98.532" y="141.314" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="105.732" y="141.314" fill="none" stroke="#000000" stroke-width="0.72" width="7.2" height="28.346"/>
+		<rect x="55.332" y="141.243" fill="none" stroke="#000000" stroke-width="0.72" width="57.6" height="14.031"/>
+		<text transform="matrix(0 -1 1 0 60.5972 154.5852)" font-family="'OCRA'" font-size="4.5px">5V</text>
+		<text transform="matrix(0 -1 1 0 67.7973 154.5852)" font-family="'OCRA'" font-size="4.5px">A7</text>
+		<text transform="matrix(0 -1 1 0 74.9973 154.5852)" font-family="'OCRA'" font-size="4.5px">A6</text>
+		<text transform="matrix(0 -1 1 0 82.1973 154.5852)" font-family="'OCRA'" font-size="4.5px">A4</text>
+		<text transform="matrix(0 -1 1 0 89.3975 154.5852)" font-family="'OCRA'" font-size="4.5px">B3</text>
+		<text transform="matrix(0 -1 1 0 96.5971 154.5852)" font-family="'OCRA'" font-size="4.5px">B2</text>
+		<text transform="matrix(0 -1 1 0 103.7975 154.5872)" font-family="'OCRA'" font-size="4.5px">C3</text>
+		<text transform="matrix(0 -1 1 0 110.9974 154.5852)" font-family="'OCRA'" font-size="4.5px">GND</text>
+	</g>
+</g>
+</svg>
