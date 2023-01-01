@@ -1,2 +1,0 @@
-# FlipperZeroStuff
-Coming Soon
