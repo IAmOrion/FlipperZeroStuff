@@ -8,15 +8,20 @@ Simple PCB to allow other add-on boards to be mounted behind the flipper zero
 
 LEDs / Resistors are all SMD 1206 package size
 
-![RearMountTop](/images/Flipper_Zero_Rear_Mount_PCB_TOP.png)
+![RearMountTop](./images/Flipper_Zero_Rear_Mount_PCB_TOP.png)
 
-![RearMountBottom](/images/Flipper_Zero_Rear_Mount_PCB_BOTTOM.png)
+![RearMountBottom](./images/Flipper_Zero_Rear_Mount_PCB_BOTTOM.png)
 
 # Flipper Zero ProtoType PCB
 
 Simple prototyping board with the same PCB outline footprint/size of the Official WiFi Dev Board
 
 LEDs / Resistors are all SMD 1206 package size
+
+![ProtoTypeTop](./images/Flipper_Zero_ProtoType_PCB_TOP.png)
+
+![ProtoTypeBottom](./images/Flipper_Zero_ProtoType_PCB_BOTTOM.png)
+
 
 # Flipper Zero NRF24L01 PCB
 
@@ -27,6 +32,10 @@ LEDs / Resistors / Capacitors are all SMD 1206 package size
 1 x 10uF 
 1 x 100nF (aka 0.1uF)
 1 x NRF24L01+
+
+![NRF24Top](./images/Flipper_Zero_NRF24L01_PCB_TOP.png)
+
+![NRF24Bottom](./images/Flipper_Zero_NRF24L01_PCB_BOTTOM.png)
 
 # Flipper Zero Multi Board PCB
 
@@ -45,6 +54,10 @@ LEDs / Resistors / Capacitors are all SMD 1206 package size
 1 x HC-SR04
 
 *IMPORTANT* -- During testing, I found that some ESP8266 boards had their RX/TX mislabled (Specifically marked Wemos but could be bad clones).  Meaning that connections are TX -> TX, RX -> RX and *NOT* the normal RX -> TX, TX -> RX! This was annoying, so trying and cover all bases with the ESP8266 so there are tiny jumper pads to set the appropriate TX/RX pins correctly.
+
+![MultiBoardTop](./images/Flipper_Zero_Multi_Board_PCB_TOP.png)
+
+![MultiBoardBottom](./images/Flipper_Zero_Multi_Board_PCB_BOTTOM.png)
 
 # Some Notes
 
