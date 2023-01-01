@@ -12,6 +12,8 @@ Official Firmware: https://github.com/flipperdevices/flipperzero-firmware
 
 Unleashed Firmware: https://github.com/DarkFlippers/unleashed-firmware
 
+Flipper Xtreme: https://github.com/ClaraCrazy/Flipper-Xtreme
+
 Rogue Master: https://github.com/RogueMaster/flipperzero-firmware-wPlugins
 
 UberGuidoZ: https://github.com/UberGuidoZ/Flipper
