@@ -8,9 +8,9 @@ Simple PCB to allow other add-on boards to be mounted behind the flipper zero
 
 LEDs / Resistors are all SMD 1206 package size
 
-![alt text](./images/Flipper Zero Rear Mount PCB TOP.png)
+![alt text](/images/Flipper Zero Rear Mount PCB TOP.png)
 
-![alt text](./images/Flipper Zero Rear Mount PCB BOTTOM.png)
+![alt text](/images/Flipper Zero Rear Mount PCB BOTTOM.png)
 
 # Flipper Zero ProtoType PCB
 
