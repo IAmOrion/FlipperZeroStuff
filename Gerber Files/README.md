@@ -4,7 +4,6 @@ Important note: As of the date of uploading these (Jan 1st 2023 @ 01:43am) - I h
 
 
 Want to donate as a "Thank you"? - https://www.paypal.com/paypalme/IAmOrion
-Donations appreciated but NEVER expected.
 
 # Flipper Zero Rear Mount PCB
 
