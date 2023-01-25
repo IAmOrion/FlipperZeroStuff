@@ -62,14 +62,14 @@ LEDs / Resistors / Capacitors are all SMD 1206 package size
 
 ![MultiBoardBottom](./images/Flipper_Zero_Multi_Board_PCB_BOTTOM.png)
 
-# Flipper Zero ESP32 30 Pin "Yet eBoard" - Part of the 'TalkingSasquatch' boards I'm developing
+# Flipper Zero ESP32 30 Pin "Yet eBoard" - Part of the 'TalkingSasquach' boards I'm developing
 
 Dead basic WiFi Dev Board alternative using a standard ESP32-WROOM 30 Pin board available from Amazon etc
 30 Pin ESP32 https://www.amazon.co.uk/ESP-32S-Development-2-4GHz-Bluetooth-Antenna/dp/B071JR9WS9/
 
 ![ESP32 30 Pin Top](./images/ESP32_30_Pin_Basic_Yet_eBoard.png)
 
-# Flipper Zero ESP32 38 Pin "Yet eBoard" - Part of the 'TalkingSasquatch' boards I'm developing
+# Flipper Zero ESP32 38 Pin "Yet eBoard" - Part of the 'TalkingSasquach' boards I'm developing
 
 Dead basic WiFi Dev Board alternative using a standard ESP32-WROOM 38 Pin board available from Amazon etc
 38 Pin ESP32 https://www.amazon.co.uk/DUBEUYEW-NodeMCU-32S-ESP-WROOM-32-Development-Microcontroller/dp/B0BJPZ7G6D/
