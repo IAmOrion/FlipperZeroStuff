@@ -1,8 +1,5 @@
 # FlipperZeroStuff
 
-Important note: As of the date of uploading these (Jan 1st 2023 @ 01:43am) - I have not had received my boards from JLCPCB yet so have not physically tested any of these boards. In theory they should be fine, but I will update this readme after testing.  Obviously, during the design phase, I tested the individual components connected and the design via breadboards
-
-
 Want to donate as a "Thank you"? - https://www.paypal.com/paypalme/IAmOrion
 
 # Flipper Zero Rear Mount PCB
