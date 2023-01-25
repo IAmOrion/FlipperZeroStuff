@@ -62,8 +62,22 @@ LEDs / Resistors / Capacitors are all SMD 1206 package size
 
 ![MultiBoardBottom](./images/Flipper_Zero_Multi_Board_PCB_BOTTOM.png)
 
+# Flipper Zero ESP32 30 Pin "Yet eBoard" - Part of the 'TalkingSasquatch' boards I'm developing
+
+Dead basic WiFi Dev Board alternative using a standard ESP32-WROOM 30 Pin board available from Amazon etc
+30 Pin ESP32 https://www.amazon.co.uk/ESP-32S-Development-2-4GHz-Bluetooth-Antenna/dp/B071JR9WS9/
+
+![ESP32 30 Pin Top](./images/ESP32_30_Pin_Basic_Yet_eBoard.png)
+
+# Flipper Zero ESP32 38 Pin "Yet eBoard" - Part of the 'TalkingSasquatch' boards I'm developing
+
+Dead basic WiFi Dev Board alternative using a standard ESP32-WROOM 38 Pin board available from Amazon etc
+38 Pin ESP32 https://www.amazon.co.uk/DUBEUYEW-NodeMCU-32S-ESP-WROOM-32-Development-Microcontroller/dp/B0BJPZ7G6D/
+
+![ESP32 30 Pin Top](./images/ESP32_38_Pin_Basic_Yet_eBoard.png)
+
 # Some Notes
 
-All these boards are realistically V1's.  Tested on breadboards, probably (likely) could be improved, but here they are, as they stand, gerbers provided, for all download and use freely for personal use
+All these boards are realistically V1's.  Tested on breadboards, probably (likely) could be improved, but here they are, as they stand, gerbers provided, for all to download and use freely FOR PERSONAL USE
 
-I am based in the UK and personally use https://jlcpcb.com for all my PCBs.  Not affiliated or sponsored in anyway, they're just who I preferred after giving a few companies a try.
+I am based in the UK and use https://jlcpcb.com for all my PCBs.  Not affiliated or sponsored in anyway, they're just who I preferred after giving a few companies a try.
